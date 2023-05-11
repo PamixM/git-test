@@ -1,1 +1,1 @@
-Git nie jest trudny
+This is the content of first file
